@@ -24,7 +24,7 @@ possible setups for making music with FOSS/free software only
 - [MPC Beats](https://www.akaipro.com/mpc-beats)
 
 ### Synths
-- [Surge](https://github.com/surge-synthesizer/surge) / monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth)
+- [Surge](https://github.com/surge-synthesizer/surge) / [monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth)
 - [u-he synths](https://u-he.com/): Zebralette, Podolski, Triple Cheese, Tyrell N6, Beatzille, BazilleCM, ZebraCM
 
 ### FX
