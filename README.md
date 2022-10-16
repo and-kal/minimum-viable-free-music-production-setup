@@ -4,7 +4,7 @@ possible setups for making music with FOSS/free software only
 ## Setup 1
 
 ### DAW
-- [https://www.renoise.com](Renoise)
+- [Renoise](https://www.renoise.com)
 
 ### Synths
 - [Dexed](https://github.com/asb2m10/dexed)
