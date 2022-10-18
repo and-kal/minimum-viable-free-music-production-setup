@@ -34,11 +34,15 @@ possible setups for making music with FOSS/free software only
 - [JuceOPLVSTi](https://github.com/bsutherland/JuceOPLVSTi)
 - [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
 - Vitalium
+- [Helm](https://tytel.org/helm/)
 
 ### FX
 - [Argotlunar](https://mourednik.github.io/argotlunar/)
 - [SuperflyDSP Fx](https://superflydsp.com/) (Stereo automatic Flying Wahwah, Flying Delay, Lost-Tapes, Lost-Vinyls, Flying Chorus Stereo, Stereo Flying Tremolo, Flying Phaser stereo)
 
+#### more Linux LV2 plugins
+- [https://audioonlinux.blogspot.com/2018/10/plugins-lv2.html](https://audioonlinux.blogspot.com/2018/10/plugins-lv2.html)
+- [https://audioonlinux.blogspot.com/2019/07/alternativas-de-vst-para-linux-sim.html](https://audioonlinux.blogspot.com/2019/07/alternativas-de-vst-para-linux-sim.html)
 
 ## Setup 3
 
