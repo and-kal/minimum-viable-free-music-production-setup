@@ -23,7 +23,7 @@ possible setups for making music with FOSS/free software only
 ## Setup 2 
 
 ### DAW
-- [LMMS (Linux MultiMedia Studio)](https://lmms.io/)
+- [LMMS (Linux MultiMedia Studio)](https://lmms.io/) or [Zrythm](https://www.zrythm.org/)
 
 ### Sampler
 - QasarBeach
