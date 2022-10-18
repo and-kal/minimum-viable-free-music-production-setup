@@ -37,6 +37,7 @@ possible setups for making music with FOSS/free software only
 
 ### FX
 - [Argotlunar](https://mourednik.github.io/argotlunar/)
+- [SuperflyDSP Fx](https://superflydsp.com/) (Stereo automatic Flying Wahwah, Flying Delay, Lost-Tapes, Lost-Vinyls, Flying Chorus Stereo, Stereo Flying Tremolo, Flying Phaser stereo)
 
 
 ## Setup 3
