@@ -64,4 +64,4 @@ possible setups for making music with FOSS/free software only
 
 ## Standalone solutions
 - [Bespoke Synth](https://www.bespokesynth.com/)
-- [VCV Rack / VCV Rack 2](https://vcvrack.com/)
+- [Cardinal](https://github.com/DISTRHO/Cardinal)
