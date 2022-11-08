@@ -1,4 +1,5 @@
-# minimum-viable-free-music-production-setup
+# minimum-viable-
+-music-production-setup
 possible setups for making music with FOSS/free software only
 
 ## Setup 1
@@ -18,6 +19,7 @@ possible setups for making music with FOSS/free software only
 - [Valhalla Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 - [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+- [RS-W2395C](https://fuseaudiolabs.de/#/pages/product?id=300965965) ("Neo Classic Baxandall EQ")
 
 
 ## Setup 2 
@@ -39,10 +41,7 @@ possible setups for making music with FOSS/free software only
 ### FX
 - [Argotlunar](https://mourednik.github.io/argotlunar/)
 - [SuperflyDSP Fx](https://superflydsp.com/) (Stereo automatic Flying Wahwah, Flying Delay, Lost-Tapes, Lost-Vinyls, Flying Chorus Stereo, Stereo Flying Tremolo, Flying Phaser stereo)
-
-#### more Linux LV2 plugins
-- [https://audioonlinux.blogspot.com/2018/10/plugins-lv2.html](https://audioonlinux.blogspot.com/2018/10/plugins-lv2.html)
-- [https://audioonlinux.blogspot.com/2019/07/alternativas-de-vst-para-linux-sim.html](https://audioonlinux.blogspot.com/2019/07/alternativas-de-vst-para-linux-sim.html)
+- [LSP Parametric Equalizer x16 Stereo](https://lsp-plug.in/?page=manuals&section=para_equalizer_x16_stereo)
 
 ## Setup 3
 
@@ -60,8 +59,14 @@ possible setups for making music with FOSS/free software only
 - [Xfer OTT](https://xferrecords.com/freeware)
 - [Ribs](https://hvoyaaudio.itch.io/ribs)
 - [Cymatics Origin](https://cymatics.fm/products/origin-vintage-plugin)
-- Thesis 2 (Granular delay by Lukas Blersch)
+- [Thesis 2](https://plugins4free.com/plugin/2080/) (Granular delay by Lukas Blersch)
+- [VREV-666](https://fuseaudiolabs.de/#/pages/product?id=301009892) (spring reverb)
 
 ## Standalone solutions
 - [Bespoke Synth](https://www.bespokesynth.com/)
 - [Cardinal](https://github.com/DISTRHO/Cardinal)
+
+## further resources
+- [plugins4free.com](https://plugins4free.com/)
+- [more Linux LV2 plugins](https://audioonlinux.blogspot.com/2018/10/plugins-lv2.html)
+- [VST alternatives for Linux](https://audioonlinux.blogspot.com/2019/07/alternativas-de-vst-para-linux-sim.html)
