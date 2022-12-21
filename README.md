@@ -1,5 +1,4 @@
-# minimum-viable-
--music-production-setup
+# minimum-viable-music-production-setup
 possible setups for making music with FOSS/free software only
 
 ## Setup 1
