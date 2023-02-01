@@ -42,6 +42,7 @@ possible setups for making music with FOSS/free software only
 - [SuperflyDSP Fx](https://superflydsp.com/) (Stereo automatic Flying Wahwah, Flying Delay, Lost-Tapes, Lost-Vinyls, Flying Chorus Stereo, Stereo Flying Tremolo, Flying Phaser stereo)
 - [LSP Parametric Equalizer x16 Stereo](https://lsp-plug.in/?page=manuals&section=para_equalizer_x16_stereo)
 - [Chowdhury DSP plugins](https://chowdsp.com/products.html)
+- [Soundhack plugins](https://www.soundhack.com/freeware/)
 
 ## Setup 3
 
