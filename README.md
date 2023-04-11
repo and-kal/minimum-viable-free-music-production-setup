@@ -8,7 +8,7 @@ possible setups for making music with FOSS/free software only
 
 ### Synths
 - [Dexed](https://github.com/asb2m10/dexed)
-- Vital 
+- Vital / Vitalium
 
 ### Sequencer
 - [stockas](https://github.com/surge-synthesizer/stochas)
@@ -34,7 +34,6 @@ possible setups for making music with FOSS/free software only
 - [monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth)
 - [JuceOPLVSTi](https://github.com/bsutherland/JuceOPLVSTi)
 - [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
-- Vitalium
 - [Helm](https://tytel.org/helm/)
 
 ### FX
@@ -63,9 +62,19 @@ possible setups for making music with FOSS/free software only
 - [Thesis 2](https://plugins4free.com/plugin/2080/) (Granular delay by Lukas Blersch)
 - [VREV-666](https://fuseaudiolabs.de/#/pages/product?id=301009892) (spring reverb)
 
+## Setup 4 (WIP)
+
+### DAW
+- [Ableton Live Lite](https://www.ableton.com/de/products/live-lite/)
+
+### Synths & FX
+- [遠藤 隆光's Uhhyou Plugins](https://ryukau.github.io/VSTPlugins/)
+- [miniMeep Subtractive Synthesiser](https://nash.audio/minimeep.htm)
+
 ## Standalone solutions
 - [Bespoke Synth](https://www.bespokesynth.com/)
 - [Cardinal](https://github.com/DISTRHO/Cardinal)
+- [Chris Nash's Manhattan](https://nash.audio/manhattan/)
 
 ## further resources
 - [plugins4free.com](https://plugins4free.com/)
