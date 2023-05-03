@@ -70,6 +70,7 @@ possible setups for making music with FOSS/free software only
 ### Synths & FX
 - [遠藤 隆光's Uhhyou Plugins](https://ryukau.github.io/VSTPlugins/)
 - [miniMeep Subtractive Synthesiser](https://nash.audio/minimeep.htm)
+- [Access Virus B & C (DSP56300) Emulator](https://dsp56300.wordpress.com/)
 
 ## Standalone solutions
 - [Bespoke Synth](https://www.bespokesynth.com/)
