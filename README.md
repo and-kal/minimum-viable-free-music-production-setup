@@ -9,6 +9,7 @@ possible setups for making music with FOSS/free software only
 ### Synths
 - [Dexed](https://github.com/asb2m10/dexed)
 - Vital / Vitalium
+- [Nakst's Apricot](https://nakst.itch.io/apricot)
 
 ### Sequencer
 - [stockas](https://github.com/surge-synthesizer/stochas)
@@ -71,52 +72,20 @@ possible setups for making music with FOSS/free software only
 - [遠藤 隆光's Uhhyou Plugins](https://ryukau.github.io/VSTPlugins/)
 - [miniMeep Subtractive Synthesiser](https://nash.audio/minimeep.htm)
 - [Access Virus B & C (DSP56300) Emulator](https://dsp56300.wordpress.com/)
+- [Wings Fire](https://github.com/jerryuhoo/Fire) (multiband distortion)
 
 ## Standalone solutions
 - [Bespoke Synth](https://www.bespokesynth.com/)
 - [Cardinal](https://github.com/DISTRHO/Cardinal)
 - [Chris Nash's Manhattan](https://nash.audio/manhattan/)
 
+## worth checking out, too
+
+- [NIH-plug](https://github.com/robbert-vdh/nih-plug)
+- [Tranzistow](https://www.hrastprogrammer.com/hrastwood/tranzistow.htm) and [Diodow](https://www.hrastprogrammer.com/hrastwood/diodow.htm) by hrastprogrammer
+ 
 ## further resources
 - [plugins4free.com](https://plugins4free.com/)
 - [more Linux LV2 plugins](https://audioonlinux.blogspot.com/2018/10/plugins-lv2.html)
 - [VST alternatives for Linux](https://audioonlinux.blogspot.com/2019/07/alternativas-de-vst-para-linux-sim.html)
 - [large collection of waveforms for Vital etc.](https://www.reddit.com/r/edmproduction/comments/2jhew1/1700_waveforms_for_serums_wavetable_download_link/)
-
-<!-- TODO: have a look into those:
-    ACMT (Overtone DSP): ACM-SA series bundle, ACM500X series bundle (Pultec-style EQ, Fairchild-Style limiter/compressor, small analog-inspired eq, channel compressor, plate reverb)
-    Algonaut Atlas (drum sample manager/sequencer)
-    Auburn Sounds: Graillon 2 (voice changer), Panagement (stereo imager/reverb)
-    Audio Assault: Headcrusher (distortion), XCTR (multiband saturator)
-    Audio Damage: a lot, f.e. Quanta 2 (granular synth), Axon 2 (FM percussion synth/sequencer), Eos (reverb), Rough Rider (coloring compressor), Replicant 3 (glitch) and Other Desert Cities (experimental delay)
-    Audioblast: Acidbox (303)
-    Audiothing: Dials (Hainbach chain), Springs (spring reverb), Things Texture (granular reverb)
-    Chair Audio: Excite (snare modeler)
-    ChowDSP: BYOD (modular distortion), ChowKick (kick synth), ChowTapeModel (tape Effekt)
-    Crumar Performer (string synth)
-    Decidedly DecentSampler (Multisampler w/ interesting sample packs, see also pianobook.co.uk)
-    DrumGizmo (drum sample player w/ Rock/Metal kits)
-    ElephantDSP Room (reverb)
-    GreyBox SG-323 (vintage digital reverb, similar to Ursa Major Stargate 323)
-    Hrast Programmer: Tranzistow64 (powerful synth, bad interface)
-    Illformed: Glitch2 (glitch plugin)
-    Inertia Sound Systems: Hinder (delay), Instinct (distortion)
-    JonV FirComp2 (mastering compressor)
-    Loomer String (string synth)
-    Modartt Pianoteq (piano, e-piano, guitar physical modelling synth)
-    nakst Apricot (hybrid synth), Altitude (hybrid synth)
-    PunkLabs OneTrick Simian (drum synth, Simmons SDS-V)
-    Renoise Redux (sampler / tracker plugin)
-    Robbert van der Helm: Diopser (phase rotation), Spectral Compressor (multiband compressor)
-    Sinuslabs Reach (reverb)
-    Sonosaurus PaulXstretch (sound stretcher)
-    TAL J8 (jupiter 8 synth), TAL-Reverb-4 (reverb)
-    TbT: TLs 1295 (compressor), TLs 3113 (limiter)
-    ToneLib: TubeWarmth (saturator), BassDrive (fx)
-    Tracktion: BioTek 2 (synth), Dan Dean Essential Bass (bass sample player), F-em (synth)
-    U-he: Diva (synth), Repro (synth), Presswerk (compressor), Twangström (spring reverb), Uhbik (fx)
-    Ugritone Drums (drum sampler w/ rock/metal/punk kits)
-    unplugred: CRMBL (delay), Prisma (modular distortion)
-    Venomode Maximal 3 (limiter)
-    Wings Fire (multiband distortion)
---!>
