@@ -31,7 +31,7 @@ possible setups for making music with FOSS/free software only
 - QasarBeach
 
 ### Synths
-- [Surge](https://github.com/surge-synthesizer/surge) + [Adventure Kid Wave Forms](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE) 
+- [Surge](https://github.com/surge-synthesizer/surge) + [Adventure Kid Wave Forms](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE) or [Void Vertex Single Cycle Waveforms](https://github.com/VoidVertex/Single-Cycle-Waveforms)
 - [monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth)
 - [JuceOPLVSTi](https://github.com/bsutherland/JuceOPLVSTi)
 - [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
