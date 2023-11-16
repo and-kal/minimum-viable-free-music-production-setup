@@ -32,9 +32,9 @@ possible setups for making music with FOSS/free software only
 
 - [LMMS (Linux MultiMedia Studio)](https://lmms.io/) or [Zrythm](https://www.zrythm.org/)
 
-### Sampler
+### Drums
 
-- QasarBeach
+- [avldrums.lv2](http://x42-plugins.com/x42/x42-avldrums)
 
 ### Synths
 
@@ -95,8 +95,9 @@ possible setups for making music with FOSS/free software only
 
 ## worth checking out, too
 
-- [avldrums.lv2](http://x42-plugins.com/x42/x42-avldrums)
+- [cybergrunge plugins](https://archive.org/download/cybergrunge-plugins)
 - [NIH-plug](https://github.com/robbert-vdh/nih-plug)
+- [QasarBeach](https://adamstrange.itch.io/qasarbeach)
 - [Tranzistow](https://www.hrastprogrammer.com/hrastwood/tranzistow.htm) and [Diodow](https://www.hrastprogrammer.com/hrastwood/diodow.htm) by hrastprogrammer
 
 ## further resources
