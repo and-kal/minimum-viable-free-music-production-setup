@@ -99,7 +99,10 @@ possible setups for making music with FOSS/free software only
 - [NIH-plug](https://github.com/robbert-vdh/nih-plug)
 - [QasarBeach](https://adamstrange.itch.io/qasarbeach)
 - [Tranzistow](https://www.hrastprogrammer.com/hrastwood/tranzistow.htm) and [Diodow](https://www.hrastprogrammer.com/hrastwood/diodow.htm) by hrastprogrammer
-
+<!--
+- [Guitarix](https://guitarix.org/)
+- [B.Oops](https://github.com/sjaehn/BOops)
+-->
 ## further resources
 
 - [large collection of waveforms for Vital etc.](https://www.reddit.com/r/edmproduction/comments/2jhew1/1700_waveforms_for_serums_wavetable_download_link/)
