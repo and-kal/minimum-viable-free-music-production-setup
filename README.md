@@ -25,7 +25,8 @@ possible setups for making music with FOSS/free software only
 - [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 - [Valhalla Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
-
+- [Lofi Oddity](https://aberrantdsp.com/plugins/lofi-oddity/)
+  
 ## Setup 2
 
 ### DAW
