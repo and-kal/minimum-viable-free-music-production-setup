@@ -21,12 +21,12 @@ possible setups for making music with FOSS/free software only
 ### FX
 
 - [Emergence](https://daniel-gergely.itch.io/emergence)
+- [Lofi Oddity](https://aberrantdsp.com/plugins/lofi-oddity/)
 - [RS-W2395C](https://fuseaudiolabs.de/#/pages/product?id=300965965) ("Neo Classic Baxandall EQ")
 - [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 - [Valhalla Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
-- [Lofi Oddity](https://aberrantdsp.com/plugins/lofi-oddity/)
-  
+
 ## Setup 2
 
 ### DAW
@@ -75,7 +75,7 @@ possible setups for making music with FOSS/free software only
 - [VREV-666](https://fuseaudiolabs.de/#/pages/product?id=301009892) (spring reverb)
 - [Xfer OTT](https://xferrecords.com/freeware)
 
-## Setup 4 
+## Setup 4
 
 ### DAW
 
@@ -85,6 +85,7 @@ possible setups for making music with FOSS/free software only
 
 - [Access Virus B & C (DSP56300) Emulator](https://dsp56300.wordpress.com/)
 - [miniMeep Subtractive Synthesiser](https://nash.audio/minimeep.htm)
+- [Creative Intent Tantrum](/tantrum-v111/) (digital distortion)
 - [Wings Fire](https://github.com/jerryuhoo/Fire) (multiband distortion)
 - [遠藤 隆光's Uhhyou Plugins](https://ryukau.github.io/VSTPlugins/)
 
@@ -104,7 +105,8 @@ possible setups for making music with FOSS/free software only
 - [Guitarix](https://guitarix.org/)
 - [B.Oops](https://github.com/sjaehn/BOops)
 - [sfzinstruments](https://github.com/sfzinstruments) - multi-sampled instruments in .sfz format
--->
+  -->
+
 ## further resources
 
 - [large collection of waveforms for Vital etc.](https://www.reddit.com/r/edmproduction/comments/2jhew1/1700_waveforms_for_serums_wavetable_download_link/)
