@@ -98,6 +98,7 @@ possible setups for making music with FOSS/free software only
 ## worth checking out, too
 
 - [cybergrunge plugins](https://archive.org/download/cybergrunge-plugins)
+- [List of instrument plugins with microtonal support](https://en.xen.wiki/w/List_of_microtonal_software_plugins)
 - [NIH-plug](https://github.com/robbert-vdh/nih-plug)
 - [QasarBeach](https://adamstrange.itch.io/qasarbeach)
 - [Tranzistow](https://www.hrastprogrammer.com/hrastwood/tranzistow.htm) and [Diodow](https://www.hrastprogrammer.com/hrastwood/diodow.htm) by hrastprogrammer
