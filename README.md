@@ -106,6 +106,7 @@ possible setups for making music with FOSS/free software only
 - [Guitarix](https://guitarix.org/)
 - [B.Oops](https://github.com/sjaehn/BOops)
 - [sfzinstruments](https://github.com/sfzinstruments) - multi-sampled instruments in .sfz format
+- [Thump One](https://www.toyboxaudio.com/pages/thump-one)
   -->
 
 ## further resources
